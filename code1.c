@@ -24,7 +24,7 @@ int main()
         
     }
     
-    printf("The max of the digits in your number is: %d", max); //test 1 2 3
+    printf("The max of the digits in your number is: %d", max); //test 5 6 7
     
     return 0;
 }
